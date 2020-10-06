@@ -56,7 +56,7 @@
       <nav>
   
 
-      <p>&copy; 2020 Dry Oar Adventures  - Thanush Ganesh </p>   
+      <p>&copy; 2020 Dry Oar Adventures  - </p>   
      </nav>
      
 </footer>
